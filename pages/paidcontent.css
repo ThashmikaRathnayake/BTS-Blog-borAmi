@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: rgb(147, 43, 226);
+}
+
+.section-horizontal {
+    margin-top: 20px;
+    /* margin-bottom: 20px; */
+    height: 33.33%; /* Each section takes up one-third of the viewport height */
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 6;
+}
+
+.imagewhale {
+    background-position: center;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.arrow {
+    text-decoration: none;
+    color: rgb(58, 6, 84);
+}
+
+.arrow:hover {
+    color: rgb(162, 94, 225);
+    background-color: transparent;
+}
+
+.borabutton {
+    background-color: white; /* Change this color code to your desired color */
+    color: black; /* Set text color to white for better contrast */
+    padding: 5px 20px; /* Add padding for better visual appearance */
+    border: 1px solid #141516; /* Add a 2px solid border with your desired color */
+    border-radius: 5px;/* Add border-radius for rounded corners */
+    cursor: pointer; 
+    font-size: 20px;
+    line-height: 2;
+}
+
+/* Change button color on hover for better user interaction */
+.borabutton:hover {
+    background-color: rgb(57, 8, 69); /* Change this color code to your desired hover color */
+    border-color: #b434db; /* Change this color code to your desired hover border color */
+    color: white;
+}

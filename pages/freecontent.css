@@ -1,0 +1,9 @@
+.arrow {
+    text-decoration: none;
+    color: rgb(58, 6, 84);
+}
+
+.arrow:hover {
+    color: rgb(162, 94, 225);
+    background-color: transparent;
+}

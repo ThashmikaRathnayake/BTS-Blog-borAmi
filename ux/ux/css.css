@@ -1,0 +1,153 @@
+div .logo{
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 25px;
+    color:rgb(231, 188, 246);
+   
+    float: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left:15px;
+}
+    
+
+div .logo span{
+    font-family:cursive;
+    color:rgb(186, 106, 212) ;
+    
+}
+
+/* @media (min-width: 992px){
+	.dropdown-menu .dropdown-toggle:after{
+		border-top: .3em solid transparent;
+	    border-right: 0;
+	    border-bottom: .3em solid transparent;
+	    border-left: .3em solid;
+	}
+	.dropdown-menu .dropdown-menu{
+		margin-left:0; margin-right: 0;
+	}
+	.dropdown-menu li{
+		position: relative;
+	}
+	.nav-item .submenu{ 
+		display: none;
+		position: absolute;
+		left:100%; top:-7px;
+	}
+	.nav-item .submenu-left{ 
+		right:100%; left:auto;
+	}
+	.dropdown-menu > li:hover{ background-color: #f1f1f1 }
+	.dropdown-menu > li:hover > .submenu{
+		display: block;
+	}
+} */
+
+/* .dropdown-smu {
+    position: absolute;
+    left: 0;
+    width: 200px;
+    background: rgb(255,255,255);
+    display: none;
+}
+.dropdown-smu .dropdown-menu {
+    display: none;
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+} */
+
+/* nav ul{
+    text-transform: lowercase;
+    list-style: none;
+    float: right;
+}
+
+nav ul li{
+    position: relative;
+    display: inline-block;
+    padding: 7px 7px;
+    margin-right: 20px;
+    
+}
+
+nav ul li a{
+    color:white;
+    display: block;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
+
+.active, a:hover {
+    background: rgba(71, 6, 80, 0.327);
+    transition: 0.5s;
+}
+nav ul li a:hover{
+    background: rgba(54, 18, 59, 0.327);
+    color: rgb(255, 255, 255);
+    
+} */
+
+/* nav ul li ul{
+    position: absolute;
+    left: 0;
+    width: 200px;
+    background: rgb(255,255,255);
+    display: none;
+}
+
+nav ul li ul li{
+    width: 100%;
+    border-top: 1px solid rgba(0, 0, 0, .1) ;
+   
+}
+
+nav ul li ul li ul{
+    left: 200px;
+    top: 0;
+}
+
+nav ul li:focus-within > ul,
+nav ul li:hover > ul{
+    display: initial;
+} */
+
+/* .image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%)
+  }
+  
+  .container:hover .image {
+    opacity: 0.3;
+  }
+  
+  .container:hover .middle {
+    opacity: 1;
+  }
+  
+  .text {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+  }
+ */
+
+

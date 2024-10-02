@@ -1,0 +1,45 @@
+.nav-background {
+    background-color:rgb(114, 5, 136); 
+    height:fixed;
+}
+
+.logo{
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 25px;
+    float: left;
+    margin-left:15px;
+    
+}
+
+.logo span{
+    font-family:cursive;
+    color:rgb(186, 106, 212) ;
+    
+}
+
+nav div div ul li a {
+    font-family:Raleway;
+    
+}
+
+.navbar-nav a:hover {
+    background-color: rgba(79, 51, 88, 0.321);
+}
+
+.logo a:hover {
+    background-color: transparent;
+}
+
+@media (max-width: 991px) {
+    
+    nav div div ul li  {
+        margin-left: 35px;
+        
+    }
+    .navbar-nav a:hover {
+        background-color: transparent;
+        color: rgba(165, 53, 180, 0.792);
+    }
+
+}

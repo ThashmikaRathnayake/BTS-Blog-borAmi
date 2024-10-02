@@ -1,0 +1,10 @@
+body {
+    /* background-image: url(../resources/images/entertainment/83b82098c83a8be3680c8ce9b163273b.jpg); 
+    background-repeat: no-repeat; */
+    /* color:rgb(231, 188, 246);  */
+    font-family:Lobster;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(89, 35, 89,.5);
+    color: rgb(89, 35, 89);
+}

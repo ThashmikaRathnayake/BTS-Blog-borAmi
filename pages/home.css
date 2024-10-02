@@ -1,0 +1,28 @@
+.magicshop {
+  font-size: 75px;
+  font-family: Dancing Script ;
+  font-style: oblique;
+  font-variant: inherit;
+  text-shadow: 2px 2px 2px purple;
+  text-align: center;
+}
+
+.galaxy {
+  font-family:Josefin Sans; 
+  font-size: 18px; 
+  text-align:center;
+  text-shadow: 1px 1px 1px purple;
+}
+
+.profbutton {
+  font-family:Lobster; 
+  font-size: 20px; 
+}
+
+.bt21marquee {
+  text-shadow: 5px 5px 5px rgb(53, 6, 53);
+  font-family: Sacramento;
+  font-size: 30px;
+}
+
+

@@ -1,0 +1,39 @@
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.albumbutton {
+  background-color: white;
+  color: black;
+  padding: 5px 15px;
+  border: 1px solid #141516; 
+  border-radius: 5px;
+  cursor: pointer; 
+  font-size: 17px;
+  /* line-height: 2; */
+  text-decoration: none;
+}
+
+.albumbutton:hover {
+  background-color: rgb(53, 6, 65); 
+  border-color: #2b0437; 
+  color: white;
+}
+
+
+#movetotop {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: transparent;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#movetotop:hover {
+  background-color: #c5c6c760;
+}
